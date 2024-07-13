@@ -39,7 +39,7 @@ Due to non-compliance of some Solana extensions and token-2022 features with dec
 - **Type**: Utility, Governance
 - **Transaction Fee**: Dynamic transaction fee 2.8%-5%
 - **Maximum Supply**: 18.446 trillion BARK 
-- **Contract**:
+- **Contract Address**: kp2GBGXefphueK8Kzzf8n95JmJ3amyX7EYsCpJkeuzn
 
 ### Market Overview
 
@@ -47,9 +47,14 @@ The BARK Protocol's market dynamics highlight key metrics that define its econom
 
 ## Getting Started
 
+### Solana Program ID
+
+- **Token-2022 Program**: TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
+
 ### Prerequisites
 
-- [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools) installed and configured.
+- [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools) installed and configured. sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
+- [Install Rust](curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh)
 - A Solana wallet with some SOL for transaction fees.
 - Node.js and npm for running scripts.
 
@@ -58,7 +63,7 @@ The BARK Protocol's market dynamics highlight key metrics that define its econom
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/barkprotocol/bark.git
+    git clone https://github.com/bark-community/bark.git
     cd bark
     ```
 
