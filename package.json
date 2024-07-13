@@ -1,0 +1,18 @@
+{
+  "name": "bark",
+  "version": "2.0.0",
+  "description": "BARK ensures transparent, secure, and community-driven financial operations by merging blockchain efficiency with tangible asset values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BARK Protocol",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.0",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.5.3"
+  }
+}

@@ -1,0 +1,48 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [v2.0.0] - 2024-07-13
+
+### Added
+- Refactored and released BARK token (BARK) on the Solana blockchain.
+- Basic features including transparent and secure operations, community-driven governance, and charitable contributions.
+- Dynamic transaction fees ranging from 2.8% to 5%, used for ecosystem development, BARK payback, charity campaigns, or burning.
+- Tiered CNFT memberships with exclusive benefits and rewards.
+- Updated tokenomics, including BARK token details such as initial price and maximum supply.
+- Developed and built new BARK vanity addresses and accounts.
+- Added and updated `metadata.json`.
+
+### Changes
+- Moved BARK to a new repository.
+
+### Fixed
+- Token `metadata.json`.
+
+### Disabled
+- Interest Bearing Rate: Initially planned to offer a 5% interest rate for long-term holding, currently disabled due to compliance issues with DEXs like Raydium.io.
+
+## [v1.0.9] - 2024-07-03
+
+### Changes
+- Moved to new repository.
+
+## [v1.0.8] - 2024-06-28
+
+### Added
+- Documentation and resources for BARK Protocol / BARK operations.
+- Scripts for deploying smart contracts (program) and initializing BARK tokens (BARK).
+- Guidelines for community-driven governance including proposals and voting.
+
+### Changed
+- Updated README.md to include a detailed overview, features, tokenomics, and current limitations.
+- Updated compliance and future updates section to address non-compliance with some Solana extensions and DEXs like Raydium.io.
+- Updated BARK version.
+
+### Fixed
+- Clarified and updated BARK tokenomics details and market overview in README.md.
+
+### Notes
+- **Raydium.io Non-compliance**: Solana extensions and some token-2022 features are not currently supported by Raydium.io, affecting liquidity pool functionality. Requires updates on Raydium.io. The old version works correctly with FluxBeam.
+
+- This project is under active development. Please refer to the latest documentation and release notes for the current status and features.
