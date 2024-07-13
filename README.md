@@ -1,7 +1,7 @@
 # BARK Token (BARK)
 v2.0 (Under Construction)
 
-BARK is a token-2022 standard asset on the Solana blockchain, evolving from a meme token to a meticulously crafted real-world asset.
+BARK is a token-2022 standard asset on the Solana blockchain, evolving from a memecoin to a meticulously crafted real-world asset.
 
 ## Overview
 
